@@ -24,7 +24,7 @@ Außerdem sind sie übersteuerungsfester und unverwüstlich.
 * 2 (oder 3) Mischstufen jeweils separat: Mic 1, Mic 2, (Mic 3,) Floor/Relay; Gesamtlaustärke
 * 2 (oder 3) Outputs Kopfhörer große Klinke verriegelt; mono und stereo (doppelmono)
 
-![Audio-Schema](Lingobox-Schema-Audio.png)
+![Audio-Schema](diagrams/Audio.svg)
 
 ### Schalten und Stellen
 * OnAir-Schalter (Aus/Ein) für jedes Mikro knackfrei mit Signalisation
@@ -40,7 +40,7 @@ Außerdem sind sie übersteuerungsfester und unverwüstlich.
 * Externe On-Air-Leuchte über einen separaten 4pol-XLRw (5V Output)
 * „Slow-Down“-Signalisation über einen separaten 4pol-XLRw (5V Output)
 
-![Signalisation-Schema](Lingobox-Schema-Signalisation.png)
+![Signalisation-Schema](diagrams/Signalisation.svg)
 
 Man hängt an den Output eine LED mit Vorwiderstand dran und fertig. Noch einfacher ist eine Fahrradlampe, an die man einen 4pol XLR-Stecker anlötet. Du kannst dort jede Leuchte dran hängen, die über ein USB-Netzteil gespeist wird und tauscht einfach den USB-Stecker gegen XLR aus.
 
