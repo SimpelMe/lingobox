@@ -40,6 +40,8 @@ Außerdem sind sie übersteuerungsfester und unverwüstlich.
 * Externe On-Air-Leuchte über einen separaten 4pol-XLRw (5V Output)
 * „Slow-Down“-Signalisation über einen separaten 4pol-XLRw (5V Output)
 
+![Signalisation-Schema](Lingobox-Schema-Signalisation.png)
+
 Man hängt an den Output eine LED mit Vorwiderstand dran und fertig. Noch einfacher ist eine Fahrradlampe, an die man einen 4pol XLR-Stecker anlötet. Du kannst dort jede Leuchte dran hängen, die über ein USB-Netzteil gespeist wird und tauscht einfach den USB-Stecker gegen XLR aus.
 
 ### Diverses
